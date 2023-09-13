@@ -51,7 +51,7 @@
           </div>
         </div>
       </section>
-    
+    <!--
     <section>
               <div class="text-8xl h-full w-full tracking-tighter p-8">
                     <n-gradient-text
@@ -68,19 +68,19 @@
         
                 <n-grid x-gap="12" :cols="4">
                  <n-gi>
-                        <img src="assets/images/sketches/Bad Hair Day.jpg" class="carousel-img" />
+                        <img src="~/assets/images/sketches/Bad Hair Day.jpg" class="carousel-img" />
                         <div class="sketch-title">Bad Hair Day</div>
                   </n-gi>
                 <n-gi>
-                  <img src="assets/images/sketches/Bike Race.jpg" class="carousel-img" />
+                  <img src="~/assets/images/sketches/Bike Race.jpg" class="carousel-img" />
                   <div class="sketch-title">Bike Race</div>
                 </n-gi>
                 <n-gi>
-                  <img src="assets/images/sketches/Blocking Out Her Thoughts.jpg" class="carousel-img" />
+                  <img src="~/assets/images/sketches/Blocking Out Her Thoughts.jpg" class="carousel-img" />
                       <div class="sketch-title">Blocking Out Her Thoughts</div>
                 </n-gi>
                 <n-gi>
-                  <img src="assets/images/sketches/Downed Lines.jpg" class="carousel-img" />
+                  <img src="~/assets/images/sketches/Downed Lines.jpg" class="carousel-img" />
                           <div class="sketch-title">Downed Lines</div>
                 </n-gi>
               </n-grid>
@@ -89,19 +89,19 @@
                     <div class="p-8">
                     <n-grid x-gap="12" :cols="4">
                      <n-gi>
-                            <img src="assets/images/sketches/Guggenhiem.jpg" class="carousel-img" />
+                            <img src="~/assets/images/sketches/Guggenhiem.jpg" class="carousel-img" />
                             <div class="sketch-title">Guggenhiem</div>
                       </n-gi>
                     <n-gi>
-                      <img src="assets/images/sketches/Important Trade Routes.jpg" class="carousel-img" />
+                      <img src="~/assets/images/sketches/Important Trade Routes.jpg" class="carousel-img" />
                       <div class="sketch-title">Important Trade Routes</div>
                     </n-gi>
                     <n-gi>
-                      <img src="assets/images/sketches/In-flight Together.jpg" class="carousel-img" />
+                      <img src="~/assets/images/sketches/In-flight Together.jpg" class="carousel-img" />
                           <div class="sketch-title">In-flight Together</div>
                     </n-gi>
                     <n-gi>
-                      <img src="assets/images/sketches/Light Tunnel.jpg" class="carousel-img" />
+                      <img src="~/assets/images/sketches/Light Tunnel.jpg" class="carousel-img" />
                               <div class="sketch-title">Light Tunnel</div>
                     </n-gi>
                   </n-grid>
@@ -110,19 +110,19 @@
                     <div class="p-8">
                         <n-grid x-gap="12" :cols="4">
                             <n-gi>
-                                    <img src="assets/images/sketches/Manta Rays.jpg" class="carousel-img" />
+                                    <img src="~/assets/images/sketches/Manta Rays.jpg" class="carousel-img" />
                                     <div class="sketch-title">Manta Rays</div>
                             </n-gi>
                             <n-gi>
-                            <img src="assets/images/sketches/Sea Horses.jpg" class="carousel-img" />
+                            <img src="~/assets/images/sketches/Sea Horses.jpg" class="carousel-img" />
                             <div class="sketch-title">Sea Horses</div>
                             </n-gi>
                             <n-gi>
-                            <img src="assets/images/sketches/Stars-lament.jpg" class="carousel-img" />
+                            <img src="~/assets/images/sketches/Stars-lament.jpg" class="carousel-img" />
                                 <div class="sketch-title">Stars lament</div>
                             </n-gi>
                             <n-gi>
-                            <img src="assets/images/sketches/The Clown.jpg" class="carousel-img" />
+                            <img src="~/assets/images/sketches/The Clown.jpg" class="carousel-img" />
                                     <div class="sketch-title">The Clown</div>
                             </n-gi>
                         </n-grid>
@@ -130,19 +130,19 @@
                     <div class="p-8">
                         <n-grid x-gap="12" :cols="4">
                             <n-gi>
-                                    <img src="assets/images/sketches/Untitled-A.jpg" class="carousel-img" />
+                                    <img src="~/assets/images/sketches/Untitled-A.jpg" class="carousel-img" />
                                     <div class="sketch-title">Untitled A</div>
                             </n-gi>
                             <n-gi>
-                              <img src="assets/images/sketches/Untitled-B.jpg" class="carousel-img" />
+                              <img src="~/assets/images/sketches/Untitled-B.jpg" class="carousel-img" />
                               <div class="sketch-title">Untitled B</div>
                             </n-gi>
                             <n-gi>
-                              <img src="assets/images/sketches/Untitled C.jpg" class="carousel-img" />
+                              <img src="~/assets/images/sketches/Untitled C.jpg" class="carousel-img" />
                                   <div class="sketch-title">Untitled C</div>
                             </n-gi>
                             <n-gi>
-                              <img src="assets/images/sketches/Untitled-D.jpg" class="carousel-img" />
+                              <img src="~/assets/images/sketches/Untitled-D.jpg" class="carousel-img" />
                                       <div class="sketch-title">Untitled D</div>
                             </n-gi>
                         </n-grid>
@@ -150,7 +150,7 @@
                     <div class="p-8">
                             <n-grid x-gap="12" :cols="4">
                                 <n-gi>
-                                        <img src="assets/images/sketches/Untitled-Boats.jpg" class="carousel-img" />
+                                        <img src="~/assets/images/sketches/Untitled-Boats.jpg" class="carousel-img" />
                                         <div class="sketch-title">Untitled Boats</div>
                                 </n-gi>
                         
@@ -158,7 +158,7 @@
                         </div>        
     
         </section>
-    
+    -->
     <TheFooter></TheFooter>
 </template>
 <script>

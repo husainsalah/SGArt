@@ -9,9 +9,4 @@ export default defineNuxtConfig({
 //    '@ant-design-vue/nuxt'
   ],
   
-  runtimeConfig: {
-        public: {
-            wordpressUrl: 'http://localhost:8888/ScottGrooves/graphql'
-        }
-    }
 })
