@@ -5,8 +5,7 @@ export default defineNuxtConfig({
     '@nuxt/devtools',
     '@nuxtjs/tailwindcss',
     'unplugin-vue-components/webpack'
-//    '@nuxt/naive-ui',
-//    '@ant-design-vue/nuxt'
+
   ],
   
 })
